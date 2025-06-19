@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\bin\Debug\net8.0\Base64EncodingEx.exe
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\bin\Debug\net8.0\Base64EncodingEx.deps.json
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\bin\Debug\net8.0\Base64EncodingEx.runtimeconfig.json
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\bin\Debug\net8.0\Base64EncodingEx.dll
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\bin\Debug\net8.0\Base64EncodingEx.pdb
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\obj\Debug\net8.0\Base64EncodingEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\obj\Debug\net8.0\Base64EncodingEx.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\obj\Debug\net8.0\Base64EncodingEx.AssemblyInfo.cs
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\obj\Debug\net8.0\Base64EncodingEx.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\obj\Debug\net8.0\Base64EncodingEx.dll
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\obj\Debug\net8.0\refint\Base64EncodingEx.dll
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\obj\Debug\net8.0\Base64EncodingEx.pdb
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\obj\Debug\net8.0\Base64EncodingEx.genruntimeconfig.cache
+C:\Users\louag\source\repos\Base64EncodingEx\Base64EncodingEx\obj\Debug\net8.0\ref\Base64EncodingEx.dll
